@@ -1,0 +1,26 @@
+{
+  "name": "parcel-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxKov86/parcel-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxKov86/parcel-training/issues"
+  },
+  "homepage": "https://github.com/MaxKov86/parcel-training#readme",
+  "dependencies": {
+    "joi": "^17.9.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
